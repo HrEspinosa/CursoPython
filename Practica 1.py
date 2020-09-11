@@ -64,7 +64,7 @@ elif(totalnota <=90):
 elif(totalnota <=100):
     print("Su Nota es: A")
 else:
-    print("Hay un Error!!, Vuelva a Ingresar las Notas")
+    print("Hay un Error!!, Vuelva a Ingresar las Notas Nuevamente")
 
 
 #Ejercicio 8
